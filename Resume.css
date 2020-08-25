@@ -4,14 +4,13 @@ body {
 .main-image {
   border-radius: 50%;
   border: 3px solid purple;
-
 }
 .section-title {
   text-transform: uppercase;
   color: purple;
 }
 
-h1 {
+.section-head {
   background-color: #e2e2e2;
   padding: 5px;
 }

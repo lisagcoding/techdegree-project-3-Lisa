@@ -22,7 +22,14 @@ a:hover {
 }
 
 /* Section Styles */
-
+.section-title {
+  text-transform: uppercase;
+  color: purple;
+}
+.section-head {
+  background-color: #e2e2e2
+  padding: 5px;
+}
 .main-nav {
   width: 100%;
   background: black;
@@ -201,4 +208,10 @@ a.social:hover {
     margin: 40px auto;
   }
 
-}
+  .main-image {
+    border-radius: 50%;
+    border: 3px solid purple;
+  }
+  .main-hobby {
+    border: 3px solid purple;
+  }
