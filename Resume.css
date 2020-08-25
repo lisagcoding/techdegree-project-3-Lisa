@@ -2,5 +2,7 @@ body {
   font-family: "Arial";
 }
 .main-image {
-  border: solid 3px purple;
+  border: solid 4px purple;
+  border-radius: 50%;
+  transform: scale(2) rotate(360deg);
 }
