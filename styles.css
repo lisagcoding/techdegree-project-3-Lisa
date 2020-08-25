@@ -214,4 +214,6 @@ a.social:hover {
   }
   .main-hobby {
     border: 3px solid purple;
+    width: 200px;
+    height: 200px;
   }
