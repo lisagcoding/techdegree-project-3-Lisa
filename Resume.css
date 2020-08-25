@@ -2,6 +2,7 @@ body {
   font-family: "Arial";
 }
 .main-image {
-  border: solid 3px purple;
   border-radius: 50%;
+  border: 3px solid purple;
+
 }
