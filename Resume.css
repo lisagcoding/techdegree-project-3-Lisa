@@ -4,5 +4,4 @@ body {
 .main-image {
   border: solid 4px purple;
   border-radius: 50%;
-  transform: scale(2) rotate(360deg);
 }
