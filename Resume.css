@@ -10,3 +10,8 @@ body {
   text-transform: uppercase;
   color: purple;
 }
+
+h1 {
+  background-color: #e2e2e2;
+  padding: 5px;
+}
