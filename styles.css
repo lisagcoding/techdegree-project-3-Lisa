@@ -124,6 +124,9 @@ ul.skills {
   background: #0399ff;
 }
 
+ul.summary {
+  display:inline-block;
+}
 footer {
   width: 100%;
   min-height: 30px;
