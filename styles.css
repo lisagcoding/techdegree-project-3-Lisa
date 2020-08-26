@@ -210,4 +210,5 @@ a.social:hover {
 
   .hobby {
     border: 3px solid purple;
+    display: flex;
   }
