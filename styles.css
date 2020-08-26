@@ -56,12 +56,12 @@ a:hover {
   transition: all .5s;
 }
 .nav a:hover {
-  color: white
+  color: white;
 }
 
 header {
   text-align: center;
-  background: url('images/pansy.jpg') no-repeat top center ;
+  background: url('images/pansy.jpg') no-repeat top center;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -125,7 +125,7 @@ ul.skills {
 }
 
 ul.summary {
-  display:inline-block;
+  display: inline-block;
 }
 footer {
   width: 100%;
