@@ -207,8 +207,3 @@ a.social:hover {
     max-width: 1200px;
     margin: 40px auto;
   }
-
-  .hobby {
-    border: 3px solid purple;
-    display: flex;
-  }
