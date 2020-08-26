@@ -41,7 +41,7 @@ a:hover {
   font-weight: 700;
   list-style-type: none;
   margin: 0 auto;
-  padding: 0;
+  padding: 0px;
 }
 
 .nav .name {
@@ -210,6 +210,6 @@ a.social:hover {
 
   .main-hobby {
     border: 3px solid purple;
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
   }
