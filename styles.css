@@ -103,7 +103,7 @@ header .profile-image:hover {
   transition: all .5s;
 }
 .card:hover {
-  border-color: #ff99ff;
+  border-color: purple;
 }
 
 ul.skills {
