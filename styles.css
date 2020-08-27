@@ -27,7 +27,7 @@ a:hover {
   color: purple;
 }
 
-.main-nav {
+.bar-heading {
   width: 100%;
   background: black;
   min-height: 30px;
@@ -95,7 +95,7 @@ header .cover {
   background-color: white;
   color: purple;
 }
-.card {
+.information {
   margin: 10px;
   padding: 20px 40px 40px;
   max-width: 500px;
@@ -105,7 +105,7 @@ header .cover {
   border-radius: 6px;
   transition: all .5s;
 }
-.card:hover {
+.information:hover {
   border-color: purple;
 }
 
