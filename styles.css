@@ -80,6 +80,9 @@ header .profile-image {
 header .profile-image:hover {
   transform: scale(2) rotate(360deg);
 }
+header .cover {
+  object-fit: cover;
+}
 .tag {
   background-color: #efefef;
   color: black;
