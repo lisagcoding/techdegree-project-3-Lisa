@@ -127,6 +127,10 @@ ul.skills {
 ul.summary {
   display: inline-block;
 }
+.hobby {
+  border: 2px solid purple
+}
+
 footer {
   width: 100%;
   min-height: 30px;
