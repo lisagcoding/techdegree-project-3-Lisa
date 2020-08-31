@@ -134,7 +134,7 @@ ul.summary {
 .hobby {
   border: 3px solid purple;
 }
-.examples:hover {
+.examples {
   border: 3px solid purple;
   padding: 5px
 }
