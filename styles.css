@@ -136,7 +136,10 @@ ul.summary {
 }
 .examples {
   border: 3px solid purple;
-  padding: 5px
+  padding: 5px;
+}
+.examples:hover {
+  transform: scale(2);
 }
 figcaption {
   padding: 3px;
