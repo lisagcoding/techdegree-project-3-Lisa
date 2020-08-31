@@ -132,7 +132,11 @@ ul.summary {
   font-size: larger
 }
 .hobby {
-  border: 3px solid purple
+  border: 3px solid purple;
+}
+.examples:hover {
+  border: 3px solid purple;
+  padding: 5px
 }
 figcaption {
   padding: 3px;
