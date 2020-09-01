@@ -66,6 +66,12 @@ header {
   overflow: hidden;
   padding-top: 60px;
 }
+.border {
+  background: url('images/tools.jpg') no-repeat bottom center;
+  background-size: cover;
+  overflow: hidden;
+  padding-top: 200px;
+}
 header {
   line-height: 1.5;
 }
